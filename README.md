@@ -22,9 +22,9 @@ Knowledge that I have acquired over time:
 ## 📊 GitHub Stats
 My current 'XP':
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandhersantos-dev&show_icons=true&bg_color=90,2C2F33,000&title_color=677BBF&text_color=fff&icon_color=677BBF&border_color=677BBF&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandhersantos-dev&&locale=pt-br&show_icons=true&bg_color=90,2C2F33,000&title_color=677BBF&text_color=fff&icon_color=677BBF&border_color=677BBF&theme=transparent)
 
 ## 🤝 My Contributions
 Helping and being helped:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jandhersantos-dev&theme=discord-old-blurple)](https://git.io/streak-stats)
