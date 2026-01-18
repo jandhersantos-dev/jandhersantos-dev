@@ -27,4 +27,4 @@ My current 'XP':
 ## 🤝 My Contributions
 Helping and being helped:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=discord-old-blurple)](https://git.io/streak-stats)
