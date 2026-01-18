@@ -27,4 +27,4 @@ My current 'XP':
 ## 🤝 My Contributions
 Helping and being helped:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jandhersantos-dev&background=90,2C2F33,000&border=677BBF&stroke=fff&ring=677BBF&fire=677BBF&dates=fff&currStreakNum=677BBF&sideNums=677BBF&currStreakLabel=677BBF&sideLabels=677BBF&excludeDaysLabel=677BBF&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jandhersantos-dev)](https://git.io/streak-stats)
